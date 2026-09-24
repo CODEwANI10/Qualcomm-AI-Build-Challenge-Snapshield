@@ -42,10 +42,9 @@
     "onnx",
     "bgp",
     "network-security",
-    "india"
+       "india"
   ],
-
-"allowScripts": {
-  "esbuild": true
-}
+  "allowScripts": {
+    "esbuild": true
+  }
 } 
