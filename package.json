@@ -45,3 +45,6 @@
     "india"
   ]
 }
+"allowScripts": {
+  "esbuild": true
+}
