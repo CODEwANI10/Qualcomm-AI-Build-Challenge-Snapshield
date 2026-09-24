@@ -207,3 +207,4 @@ git push -u origin main
 **Significantly modified from:** SHYEN (Security Hub for Yielding Edge Networks) — author's prior BGP threat intelligence dashboard. Groq cloud API excised; Supabase removed; on-device packet capture, ONNX classifier, and Llama 3.2 3B added.
 
 **Target hardware:** Snapdragon X Elite HP AI PC (HP OmniBook X 14, HP EliteBook Ultra G1q) — Windows 11 ARM64
+
