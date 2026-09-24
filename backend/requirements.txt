@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+scapy==2.5.0
+pyshark==0.6.0
+onnxruntime==1.18.0
+# Qualcomm AI Hub — Llama 3.2 3B compiled for Hexagon NPU (QNN Runtime)
+qai-hub-models==0.18.0
+numpy==1.26.4
+pandas==2.2.2
