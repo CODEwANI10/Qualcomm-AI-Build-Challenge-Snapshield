@@ -151,7 +151,8 @@ export const useSHYENStore = create(persist((set, get) => ({
       keys:  ['incidentCount', 'activeCount', 'mitigatedCount', 'isPaused'],
     })
     const changeHistory = appendChangeEntry(state.changeHistory, entry)
-    persistChangeHistory(changeHistory)    return { changeHistory, lastCheckpointSnapshot: after }
+    persistChangeHistory(changeHistory)    
+    return { changeHistory, lastCheckpointSnapshot: after }
   }),
 
   // 'live' = only real RIPE RIS + real API calls, zero synthetic data ever.
