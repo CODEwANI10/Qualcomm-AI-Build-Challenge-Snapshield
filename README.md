@@ -175,11 +175,7 @@ HP AI PC — Snapdragon X Elite
 - [x] MIT License
 - [x] DEMO_SCRIPT.md, docs/architecture.svg, docs/setup-guide.md
 
-### You must do (cannot be automated)
-- [ ] **Create GitHub repo**: `github.com/aniket-khot/snapshield` → push this ZIP's contents
-- [ ] **Record video demo**: 3–5 min following `DEMO_SCRIPT.md` → upload to YouTube/Loom
-- [ ] **Fill submission form** on the Qualcomm Snapdragon AI Lab challenge site
-- [ ] **Test on real hardware**: HP OmniBook X 14 or HP EliteBook Ultra G1q (Snapdragon X Elite)
+
 
 ### GitHub repo setup (quick guide)
 ```bash
