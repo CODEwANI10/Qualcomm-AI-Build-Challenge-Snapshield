@@ -475,3 +475,5 @@ export const useMonitorStore = create((set) => ({
   })),
   setLoading: (v) => set({ loading: v }),
 }))
+// Backward-compatibility aliases
+export { useSHYENStore as useSnapShieldStore }
