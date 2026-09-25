@@ -1,7 +1,7 @@
 import { useState, useEffect, lazy, Suspense } from 'react'
 import NPUStatusBadge from '../shared/NPUStatusBadge.jsx'
 import SeverityMeter  from '../shared/SeverityMeter.jsx'
-import { useSnapShieldStore, useProfileStore } from '../../store/useSnapShieldStore.js'
+import { useSnapShieldStore, useProfileStore } from '../../store/useSHYENStore.js'
 import NotificationsPanel from '../panels/NotificationsPanel.jsx'
 import ProfilePanel       from '../panels/ProfilePanel.jsx'
 
